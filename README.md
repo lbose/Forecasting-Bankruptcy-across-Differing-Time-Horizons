@@ -1,1 +1,2 @@
-# Bankruptcy-Prediction
+# Forecasting Bankruptcy across Differing Time Horizons
+In this paper, the objective is to predict corporate bankruptcy for the manufacturing sector in North America across differing time horizons i.e. one year ahead, two years ahead, three years ahead, four years ahead and five years ahead of the actual event of default. A logistic regression model is used for forecasting bankruptcy. SAS is used for programming. 
